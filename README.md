@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Raghvi
 
-<!--
-**rag-vi/rag-vi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🎓 IT Student
+- 🌱 Currently learning Data Structures & Algorithms
+- 💻 Interested in Web Development and Software Development
+- 🚀 Building projects to improve problem-solving skills
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🏥 MedCare Hospital Management System
+- 📚 Library Management System
+- 🌦 Weather App
+- 💊 MediGuides
+
+## 📫 Connect With Me
+- Email: raghvi1610@gmail.com
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode" />
+</p>
