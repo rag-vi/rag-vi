@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Raghvi
+# Hi there! I am Raghvi
 
 ## 👩‍💻 About Me
 - 🎓 IT Student
