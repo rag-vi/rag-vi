@@ -1,23 +1,34 @@
-# Hi there! I am Raghvi
+# Hi there! I'm Raghvi 
 
 ## 👩‍💻 About Me
-- 🎓 IT Student
-- 🌱 Currently learning Data Structures & Algorithms
-- 💻 Interested in Web Development and Software Development
-- 🚀 Building projects to improve problem-solving skills
 
-## 🛠 Tech Stack
+- 🎓 B.Tech Information Technology Student
+- 💻 Learning Data Structures & Algorithms
+- 🚀 Interested in Software Development
+- 📚 Preparing for Internships
+
+## 🛠️ Tech Stack
+
 - C++
+- Python
 - HTML
 - CSS
-- JavaScript
 - Git & GitHub
 
-## 📌 Featured Projects
+## 🌱 Currently Learning
+
+- STL
+- OOPs
+- DBMS
+- Operating Systems
+
+## 📌 Projects
+
 - 🏥 MedCare Hospital Management System
 - 📚 Library Management System
-- 🌦 Weather App
+- 🌦️ Weather App
 - 💊 MediGuides
 
 ## 📫 Connect With Me
+
 - Email: raghvi1610@gmail.com
