@@ -21,6 +21,3 @@
 
 ## 📫 Connect With Me
 - Email: raghvi1610@gmail.com
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode" />
-</p>
